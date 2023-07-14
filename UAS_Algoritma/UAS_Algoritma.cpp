@@ -133,11 +133,8 @@ int main() {
 }
 
 /* 2. Berdasarkan studi kasus diatas, algoritma apa saja yang anda gunakan ? (10 Poin)
-		- algoritma perulangan dengan FOR unttuk menampilkan.
 		- algoritma bubbleSort untuk mengurutkan.
 		- IF ELSE.
-		- algoritma DO WHILE.
-		- SWITCH CASE.
 
 	3. Jelaskan perbedaan mendasar antara algorithma stack dan queue! (15 Poin)
 		- Stack itu algoritma untuk menumpuk jadi yang pertama masuk menjadi yang terakhir keluar.
