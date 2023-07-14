@@ -88,7 +88,7 @@ void algorithmaSortByTahunMasuk() {
 			cout << "Nama     : " << nama[i] << endl;
 			cout << "Jurusan  : " << jurusan[i] << endl;
 			cout << "Tahun    : " << tahunMasuk[i] << endl;
-			cout << "=====================================" << endl;
+			cout <<  endl;
 		}
 	}
 	else {
